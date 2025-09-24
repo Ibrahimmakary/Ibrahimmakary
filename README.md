@@ -14,23 +14,27 @@
 
 ```javascript
 const Ibrahim = {
-    location: "Cairo, Egypt",
-    code: ["JavaScript", "Python", "Java", "C++", "TypeScript", "Go"],
+    location: "Beirut, Lebanon",
+    code: ["TypeScript", "Java", "Dart"],
     technologies: {
+        mobile: {
+        crossPlatform: ["Flutter"],
+        ios: ["Swift"],
+        
+        }
         frontEnd: {
-            js: ["React", "Next.js", "Vue.js", "Angular"],
+            js: ["Next", "Nest.js"],
             css: ["Tailwind", "Bootstrap", "Material-UI", "Styled Components"]
         },
         backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "FastAPI", "Flask"],
-            databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"]
+            js: ["Node.js","Nest.js"],
+            databases: ["Firebase", "PostgreSQL", "MySQL", "Redis"]
         },
         devOps: ["Docker", "Kubernetes", "AWS", "Azure", "GitHub Actions"],
         tools: ["Git", "VS Code", "Postman", "Figma", "Jira"]
     },
-    currentFocus: "Building scalable web applications and exploring AI/ML",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+    currentFocus: "Building scalable web applications and Mobile apps",
+   
 };
 ```
 
@@ -39,7 +43,7 @@ const Ibrahim = {
 
 ```yaml
 🔭 Currently Working On:
-  - Advanced React Applications
+  - Advanced Flutter Applications
   - Microservices Architecture
   - Cloud-Native Development
 
@@ -55,7 +59,7 @@ const Ibrahim = {
 
 💬 Ask Me About:
   - Full Stack Development
-  - JavaScript Ecosystem
+  - Flutter Ecosystem
   - Problem Solving Strategies
   - Career Guidance in Tech
 ```
@@ -69,6 +73,7 @@ const Ibrahim = {
 <div align="center">
 
 ### **Programming Languages**
+![Dart](https://img.shields.io/badge/dart-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,21 +84,15 @@ const Ibrahim = {
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Nest](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=nest&logoColor=white)
 
 ### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -159,9 +158,9 @@ const Ibrahim = {
 
 ### 📊 **WakaTime Stats**
 <!--START_SECTION:waka-->
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ibrahimmakary&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+</div> -->
 <!--END_SECTION:waka-->
 
 </div>
@@ -176,7 +175,7 @@ const Ibrahim = {
 <tr>
 <td width="50%">
 
-### 🚀 Project Alpha
+<!-- ### 🚀 Project Alpha
 **Full Stack E-commerce Platform**
 - React.js, Node.js, MongoDB
 - Payment Gateway Integration
@@ -229,7 +228,7 @@ const Ibrahim = {
 
 </div>
 
----
+--->
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Connect with Me**
 
